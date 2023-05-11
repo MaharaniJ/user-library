@@ -1,0 +1,9 @@
+Edit:
+has 2 api urls
+one is get the data for edit
+second one is update the edited data to the table
+
+users file:
+has framework 
+viewusers:
+list all the users 
